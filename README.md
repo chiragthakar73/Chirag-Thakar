@@ -60,16 +60,6 @@ I am a result-oriented professional with **4+ years of experience** in **automat
 
 ---
 
-## 📊 GitHub Stats  
-
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragthakar73&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragthakar73&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiragthakar73&theme=tokyonight)  
-
----
-
 ## 📫 Let's Connect  
 
 💼 [LinkedIn](https://www.linkedin.com/in/chirag-thakar-a4633a132/)  
